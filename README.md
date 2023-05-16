@@ -21,7 +21,7 @@
 
 <br>
 <hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prachi24599&" alt="prachi24599" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prachi24599&theme=dark&border_radius=5.5)](https://git.io/streak-stats)" alt="prachi24599" /></p>
 <br>
 <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachi24599&show_icons=true&locale=en" alt="prachi24599" /></p>
