@@ -2,11 +2,8 @@
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
 - 🌱 I’m currently learning **React**
-
 - 📝 I regularly write articles on [https://prachipolakhare.hashnode.dev/](https://prachipolakhare.hashnode.dev/)
-
 - 💬 Ask me about **HTML,CSS,JS**
-
 - 📫 How to reach me **polakhare.prachi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
