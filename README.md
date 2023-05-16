@@ -6,6 +6,8 @@
 - 💬 Ask me about **HTML,CSS,JS**
 - 📫 How to reach me **polakhare.prachi@gmail.com**
 
+<br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/ppolakhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ppolakhare" height="30" width="40" /></a>
