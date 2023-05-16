@@ -27,5 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prachi24599&show_icons=true&theme=highcontrast" alt="prachi24599" /></p>
 <hr>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachi24599&show_icons=true&locale=en&layout=compact" alt="prachi24599" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachi24599&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="prachi24599" /></p>
 
