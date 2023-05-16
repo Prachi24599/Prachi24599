@@ -6,7 +6,7 @@
 - 💬 Ask me about **HTML,CSS,JS**
 - 📫 How to reach me **polakhare.prachi@gmail.com**
 
-<br/>
+<hr/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
