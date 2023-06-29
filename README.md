@@ -12,7 +12,7 @@
 - 📝 I regularly write articles on [https://prachipolakhare.hashnode.dev/](https://prachipolakhare.hashnode.dev/)
 - 💬 Ask me about **HTML,CSS,JS**
 - 📫 How to reach me **polakhare.prachi@gmail.com**
-- 📄 Know about my experiences **I have around 2 years of experience in IT industry.**
+- 📄 Know about my experiences **I have 2 years of experience in IT industry.**
 
 <hr>
 
