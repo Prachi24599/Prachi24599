@@ -6,7 +6,7 @@
 
 <hr>
 
-- 🔭 I’m currently working on **My React Major Project**
+- 🔭 I’m currently working on **My Major React Project**
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **Web Development Projects**
 - 📝 I regularly write articles on [https://prachipolakhare.hashnode.dev/](https://prachipolakhare.hashnode.dev/)
