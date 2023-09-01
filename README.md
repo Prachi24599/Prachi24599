@@ -7,7 +7,7 @@
 <hr>
 
 - 🔭 I’m currently working on **Study Notion Project**
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and Redux**
 - 👯 I’m looking to collaborate on **Web Development Projects**
 - 📝 I regularly write articles on [https://prachipolakhare.hashnode.dev/](https://prachipolakhare.hashnode.dev/)
 - 💬 Ask me about **HTML, CSS, JS, React**
