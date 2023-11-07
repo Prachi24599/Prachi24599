@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Next.js**
 - 👯 I’m looking to collaborate on **Web Development Projects**
 - 📝 I regularly write articles on [https://prachipolakhare.hashnode.dev/](https://prachipolakhare.hashnode.dev/)
-- 💬 Ask me about **HTML, CSS, JS, React, Redux, Tailwind CSS**
+- 💬 Ask me about **HTML, CSS, JS, React, Redux, Tailwind CSS, Typescript**
 - 📫 How to reach me **polakhare.prachi@gmail.com**
 - 📄 Know about my experiences **I have 2.5 years of experience in IT industry.**
 
